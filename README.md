@@ -1,4 +1,4 @@
-VirusTotal false flags are the bane of many developers, especially in mod communities where people tend to have poor computer literacy and think everyone is out to get them so here is the simplest example possible.
+VirusTotal false flags are the bane of many developers, especially in mod communities where average users tend to have poor computer literacy and some people think everyone is out to get them so here is the simplest example possible of why you shouldn't take a virustotal result at face value
 
 I've written two scripts here. One writes a file called helloworld.txt with the text "Hello World", the other simply prints "Hello World" to console. I compiled the scripts with nuitka as standalone executables which simply means they package the python environment so the end user gets an exe that just works with no requirements. I also compiled the second script without bundling the python environment. Can you guess what will happen when I upload these to virus total?
 
